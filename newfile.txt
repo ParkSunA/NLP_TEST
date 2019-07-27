@@ -1,2 +1,3 @@
 def hi():
     print('hello')
+    print('NLP')
